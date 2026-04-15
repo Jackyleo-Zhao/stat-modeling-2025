@@ -41,3 +41,8 @@ carbon-pathway-modeling/
 │  └─ overall_model_framework.png
 └─ data/
    └─ sample_data.xlsx
+```
+
+## 联系方式
+
+- 邮箱：zhaomingyan@stu.shmtu.edu.cn
